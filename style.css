@@ -1,0 +1,135 @@
+
+
+
+/* Page de connexion*/
+
+Connexion
+.centre {
+text-align:center; 
+}
+
+/*NavBar*/
+
+
+.Menu {
+  color: #FF0000;
+  margin:20px 0px 0px 350px;
+  text-shadow: 0    0   2px #fefcc9, /* code couleur correspond approx Lemon Chiffon*/
+               1px -1px 3px #feec85, /* code couleur correspond approx Khaki*/
+              -2px -2px 4px #ffae34, /* code couleur correspond approx Supernova*/
+               2px -4px 5px #ec760c, /* code couleur correspond approx Orange Fire*/
+              -2px -6px 6px #cd4606, /* code couleur correspond approx Tawny(Fauve)*/
+               0   -8px 7px #973716, /* code coueleur correspond approx Feu*/
+               1px -9px 8px #451b0e; /* code couleur correspond  approx Brown Pod*/
+  font-family: 'Indie Flower', cursive;
+}
+
+.bordure { 
+	 height:0;
+	 border-bottom: 5px double blue; }
+
+/* Experience */
+.formation {
+	color:;
+	margin:0px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.chef {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.sigma {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.chaine {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.conseil {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.serveur {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.cuisinier {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.saisonnier {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.barman {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.apprenti {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+.cuisinier2 {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster', cursive;
+}
+
+/* Formation */
+.brevet {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color : darkmagenta;
+}
+.cap {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color: darkmagenta;
+
+}
+.cap2 {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color: darkmagenta;
+}
+.brevet2 {
+	margin:50px 0px 0px 350px;
+	font-family: 'Lobster Two', cursive;
+	font-size: 20px;
+	color: darkmagenta;
+}
+/*-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-image: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet); Pour couleur Acr-en-ciel*/
+
+/*information*/
+.divers {
+	margin:50px 0px 0px 580px;
+	font-family: 'Bangers', cursive;
+	color: lime;
+}
+.langue {
+	margin:50px 0px 0px 580px;
+	font-family: 'Bangers', cursive;
+	color: Chartreuse;
+}
+
+/*competence*/
+.competence {
+	margin:50px 0px 0px 350px;
+	font-family: 'Bangers', cursive;
+	color: red;
+}
+.qualite {
+	margin:50px 0px 0px 350px;
+	font-family: 'Bangers', cursive;
+	color: red;
+}
+.loisir {
+	margin:50px 0px 0px 350px;
+	font-family: 'Bangers', cursive;
+	color: red;
+}
